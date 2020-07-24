@@ -11,10 +11,5 @@ public class controller {
     @RequestMapping("/hello")
     public String hello(){
         return "heelo";
-       /* synchronized ()
-        synchronized ()*/
-        //synchronized ()
-//        System.out.println();
-//        System.err.println();
     }
 }
